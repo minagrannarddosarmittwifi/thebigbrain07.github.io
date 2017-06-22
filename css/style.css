@@ -1,0 +1,36 @@
+body {
+	background-color: #0ddb10;
+}
+
+#ow {
+	position: absolute;
+	top: 65px;
+	left:55%;
+	width: 15%;
+}
+
+#mine {
+	position: absolute;
+	top: 65px;
+	left:25%;
+	width: 15%;
+}
+
+#Roblox {
+	display:block;
+	width: 35%;
+	margin-left: auto;
+	margin-right: auto;
+} 
+    #is {
+    position: absolute;
+	top: 65px;
+	left:60%;
+	width: 15%;
+}
+    #inne {
+    position: absolute;
+	top: 65px;
+	left:25%;
+	width: 15%;
+}
